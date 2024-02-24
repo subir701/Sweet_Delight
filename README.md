@@ -21,7 +21,7 @@ Deployed Netlify link:   https://enchanting-cupcake-7ed0a8.netlify.app/ <br>
 - [Contributors](#contributors)
 
 ## Installation
-1. Clone the repository from GitHub: [Frail Power 8560 GitHub Repo](https://github.com/RADHIKESHS/frail-power-8560)
+1. Clone the repository from GitHub: [Sweet-Delight](https://github.com/RADHIKESHS/frail-power-8560)
 2. Install Java JDK and Spring Boot.
 3. Setup the database (MySQL, PostgreSQL, or any supported by Spring Data JPA).
 4. Configure the application properties file with database credentials.
@@ -98,7 +98,7 @@ The Frail Power 8560 project uses the following technologies:
 - Subir Adhikari: Worked on the service layer, implementing various business logic and functionalities.
 - Deepak Yadav: Contributed to the service layer, handling data processing and business operations.
 - Radhikesh Leader: Implemented JWT security for authentication and authorization in the application.
-- Rahul K Thakur: Lead the JPA entity mapping and database design, ensuring data persistence and integrity.
+- Rahul K Thakur: Led the JPA entity mapping and database design, ensuring data persistence and integrity.
 - Vivek Sharma: Worked on the frontend development, designing and implementing the user interface.
 
 Special thanks to all the contributors for their hard work and dedication in making this project a success!
